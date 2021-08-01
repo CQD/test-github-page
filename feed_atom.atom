@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>XKCD 中文翻譯</title>
+<subtitle>翻譯某個關於浪漫、諷刺、數學、以及語言的漫畫</subtitle>
+<link href="https://xkcd.tw"></link>
+<link href="https://xkcd.tw/feed" rel="self"></link>
+<link href="https://pubsubhubbub.appspot.com/" rel="hub"></link>
+<id>https://xkcd.tw/feed</id>
+<updated>2021-07-31T21:58:11+08:00</updated>
+<author><name>CQD</name></author>
+
+<entry>
+<title>聲音來源</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1590.png" alt="我們哪來的這鬼東西啊？" height="521" title="我們哪來的這鬼東西啊？" />
+</summary>
+<link href="https://xkcd.tw/1590"></link>
+<id>https://xkcd.tw/1590</id>
+<updated>2021-07-31T21:58:11+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+
+</feed>
